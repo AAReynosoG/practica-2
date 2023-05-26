@@ -16,6 +16,8 @@ body, html {
   
   .white {
     background-color: #FFFFFF;
+    align-self: center;
+    justify-self: center;
 
   }
   
