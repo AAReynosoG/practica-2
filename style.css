@@ -1,0 +1,25 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 100%;
+  }
+  
+  .green {
+    background-color: #138808;
+  }
+  
+  .white {
+    background-color: #FFFFFF;
+
+  }
+  
+  .red {
+    background-color: #CE1126;
+  }
+  
